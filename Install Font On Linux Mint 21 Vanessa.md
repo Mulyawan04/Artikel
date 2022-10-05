@@ -1,7 +1,7 @@
-# Install Font On Linux Mint 21 Vanessa
+# Install Font Pada Linux Mint 21 Vanessa
 
-## About Me :
-- I'm currently using Linux Mint 21 Vanessa
+## Tentang Saya :
+- Salah satu pengguna Linux Mint 21 Vanessa
 - Ask me about anything specially Linux Mint as a user
 
 ## How to Install Font :
