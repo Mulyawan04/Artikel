@@ -2,7 +2,8 @@
 
 ## Tentang Saya :
 - Salah satu pengguna Linux Mint 21 Vanessa
-- Ask me about anything specially Linux Mint as a user
+- Mari berdiskusi tentang Linux Mint sebagai sesama pengguna
+- Salah satu anggota grup Telegram : Linux Mint Indonesia
 
 ## How to Install Font :
 1. Open your browser
