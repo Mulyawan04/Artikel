@@ -1,11 +1,11 @@
-# Install Font Pada Linux Mint 21 Vanessa
+# Installasi Font Pada Linux Mint 21 Vanessa
 
 ## Tentang Saya :
 - Salah satu pengguna Linux Mint 21 Vanessa
 - Mari berdiskusi tentang Linux Mint sebagai sesama pengguna
 - Salah satu anggota grup Telegram : Linux Mint Indonesia
 
-## How to Install Font :
-1. Open your browser
-2. Search Google Fonts, because google fonts one of the site recommend for search a font what you need
+## Cara Menginstall Sebuah Font :
+1. Membuka Peramban Situs, contohnya Firefox, Chrome.
+2. Pada Mesin Pencari, Membuka Laman Google Fonts yaitu fonts.google.com atau bisa klik [disini](https://fonts.google.com)
 3. ...todo
