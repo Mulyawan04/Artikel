@@ -1,0 +1,10 @@
+# Install Font on Linux Mint 21 Vanessa
+## About Me :
+- I'm currently using Linux Mint 21 Vanessa
+- I'm currently learning Python and Graphic Design
+- I'm looking to collaborate as a Editor and Graphic Designer
+- Ask me about anything specially Linux Mint as a user, Python dan Graphic Design
+- How to reach me : fr1301@protonmail.com
+## How to Install Font :
+1. Open your browser whatever browser you use
+2. Search Google Font or click this link : fonts.google.com
