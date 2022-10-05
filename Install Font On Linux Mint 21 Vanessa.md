@@ -1,4 +1,4 @@
-# Install Font on Linux Mint 21 Vanessa
+# Install Font On Linux Mint 21 Vanessa
 
 ## About Me :
 - I'm currently using Linux Mint 21 Vanessa
