@@ -3,7 +3,6 @@
 ## About Me :
 - I'm currently using Linux Mint 21 Vanessa
 - Ask me about anything specially Linux Mint as a user
-- How to reach me : fr1301@protonmail.com
 
 ## How to Install Font :
 1. Open your browser
