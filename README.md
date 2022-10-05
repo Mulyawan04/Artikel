@@ -1,2 +1,2 @@
 # Artikel
-## Repositori ini memiliki lisensi GPL v3.0
+## Repositori ini memiliki lisensi GNU General Public License v3.0
