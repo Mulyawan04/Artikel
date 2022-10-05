@@ -3,7 +3,7 @@
 ## Tentang Saya :
 - Saat ini saya menggunakan Linux Mint 21 Vanessa
 - Mari Berdiskusi tentang Linux Mint sebagas sesama pengguna
-- Salah satu anggota dari grup telegram : Linux Mint Indonesia
+- Salah satu anggota dari grup Telegram : Linux Mint Indonesia
 
 ## Cara Install Inkscape Pada Linux Mint 21 Vanessa :
 
