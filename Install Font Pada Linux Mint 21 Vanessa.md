@@ -8,4 +8,8 @@
 ## Cara Menginstall Sebuah Font :
 1. Membuka Peramban Situs, contohnya Firefox, Chrome.
 2. Pada Mesin Pencari, Membuka Laman Google Fonts yaitu fonts.google.com atau bisa klik [disini](https://fonts.google.com)
-3. ...todo
+3. .....proses penulisan
+
+
+
+Penulis : Muhamad Fahri Mulyawan
