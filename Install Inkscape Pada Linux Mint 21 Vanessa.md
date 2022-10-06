@@ -13,7 +13,7 @@ Secara umum install aplikasi inkscape pada Linux Mint 21 memiliki berbagai cara,
 2. Via Software Manager
 3. Laman Resmi dari Inkscape ialah inkscape.org atau bisa klik [disini](https://www.inkscape.org)
 
-#### Cara Install Inkscape pada Linux Mint 21
+#### Cara Install Inkscape pada Linux Mint 21 melalui Terminal
 1. Membuka laman situs official inkscape
 2. Memilih menu Download dan Memilih jenis sistem operasi
 3. Sekadar catatan, utk Pengguna Linux Mint dapat memilih bagian GNU/Linux serta memilih kembali untuk menu Personal Package Archive for Ubuntu
