@@ -1,2 +1,5 @@
 # Artikel
-## Repositori ini memiliki lisensi GNU General Public License v3.0
+
+### Berbagai artikel tersimpan pada menu Artikel Wiki
+* Silakan tanggapan berupa kritik dan saran
+* Mari berdiskusi sebagai sesama pengguna Linux Mint
