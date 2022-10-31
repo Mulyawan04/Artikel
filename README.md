@@ -1,5 +1,5 @@
 # Artikel
 
-### Berbagai artikel tersimpan pada menu Artikel Wiki
+### Berbagai Artikel Tersimpan pada Menu Artikel Wiki
 * Silakan tanggapan berupa kritik dan saran
 * Mari berdiskusi sebagai sesama pengguna Linux Mint
